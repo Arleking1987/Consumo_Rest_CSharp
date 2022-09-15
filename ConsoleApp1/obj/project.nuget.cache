@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8r2fU0OWlXCo/LNx3jC3cfqFmz12FP6WUlPrB5Tbm4t+yvx9u/aU0AFdwzp6iqYc0SVXuPRm0OxrRvFe5nVtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yonhatan.ramirez\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
